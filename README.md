@@ -27,7 +27,9 @@ In our final report, we focus on the three best-performing models (Based on Perf
 - **Random Forest**
 - **XGBoost**
 - **Logistic Regression**
-These models were selected based on their public leaderboard performance and stability across datasets.
+
+
+These models were selected based on their public leaderboard performance.
 
 
 ##  Methods Used
