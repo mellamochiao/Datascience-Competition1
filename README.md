@@ -1,4 +1,4 @@
-# Data Science CP1 Competition Project
+# Data Science Competition Project
 
 ##  Task Overview
 This is the course competition project for "Introduction to Data Science".  
