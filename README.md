@@ -8,6 +8,7 @@ The goal is to perform **binary classification** on 49 different datasets using 
 
 - `model/`:  
   Contains all the `.ipynb` notebooks for model training and experimentation.  
+  - `knn.ipynb`
   - `logistic_regression.ipynb`
   - `random_forest.ipynb`
   - `xgboost.ipynb`
@@ -19,7 +20,7 @@ The goal is to perform **binary classification** on 49 different datasets using 
   Final report containing:
   - Data insights and analysis
   - Model comparisons
-  - Hyperparameter tuning
+  - Hyperparameter explenation
   - Leaderboard performance
 
 ## Selected Best Models (Based on Performance)
@@ -31,7 +32,6 @@ In our final report, we focus on the three best-performing models:
 
 These models were selected based on their private leaderboard performance and stability across datasets.
 
-> ⚠️ Note: The competition dataset is **not included** in this repository due to course policy.
 
 ##  Methods Used
 - Scikit-learn: Logistic Regression, KNN, Random Forest, etc.
