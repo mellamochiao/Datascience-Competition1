@@ -14,7 +14,6 @@ The goal is to perform **binary classification** on 49 different datasets using 
   - `xgboost.ipynb`
   - `LightGBM.ipynb`
   - `stacking.ipynb`  
-  etc.
 
 - `CP1report.pdf`:  
   Final report containing:
@@ -38,11 +37,8 @@ These models were selected based on their private leaderboard performance and st
 - Advanced models: XGBoost, LightGBM
 - Ensemble: Stacking
 
-##  Evaluation
-- Public leaderboard used half of the test data
-- Private leaderboard (revealed after competition) determined the final grade
-
 
 ##  References
+- Scikit-learn: https://scikit-learn.org/stable/
 - XGBoost: https://arxiv.org/abs/1603.02754  
 - LightGBM: https://papers.nips.cc/paper_files/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html  
