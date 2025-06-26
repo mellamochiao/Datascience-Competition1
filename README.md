@@ -5,7 +5,7 @@ This is the course competition project for "Introduction to Data Science".
 The goal is to perform **binary classification** on 49 different datasets using various machine learning models.
 
 ## Project Structure
-- **`model/`**  
+**`model/`**  
   Contains all the `.ipynb` notebooks for model training and experimentation:
   - `knn.ipynb`
   - `logistic_regression.ipynb`
@@ -14,7 +14,7 @@ The goal is to perform **binary classification** on 49 different datasets using 
   - `LightGBM.ipynb`
   - `stacking.ipynb`
 
-- **`CP1report.pdf`**  
+**`CP1report.pdf`**  
   Final report including:
   - Data insights and analysis
   - Model comparisons
